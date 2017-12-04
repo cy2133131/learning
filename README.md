@@ -1,2 +1,2 @@
 # learning
-learning how to use git adn github.
+learning how to use git and github.
